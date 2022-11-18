@@ -7,8 +7,8 @@ apt-get upgrade -y
 apt-get install net-tools -y 
 
 VERSION="5.6.8"
-TIME_ZONE="America/Los_Angeles" #
-mysql_root_password="test123456"
+TIME_ZONE="America/Phoenix" #
+mysql_root_password="1122"
 repository="https://anonfiles.com/"
 
 # SET LOCALE TO UTF-8

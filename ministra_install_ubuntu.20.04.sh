@@ -97,7 +97,7 @@ echo -e " \e[32mInstalling Ministra Portal $VERSION \e[0m"
 sleep 3
 cd /var/www/html/
 # wget $repository/ministra-$VERSION.zip
-wget http://canales.tv/Ministra_TV_Platform_5.6.8.zip
+wget http://192.168.1.60/Ministra_TV_Platform_5.6.8.zip
 # unzip ministra-$VERSION.zip
 unzip Ministra_TV_Platform_5.6.8
 rm -rf *.zip
